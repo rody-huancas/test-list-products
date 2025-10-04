@@ -1,0 +1,184 @@
+{
+  "products": [
+    {
+      "id"         : 1,
+      "name"       : "Laptop HP Pavilion 15",
+      "description": "Laptop potente con procesador Intel i7, 16GB RAM, 512GB SSD",
+      "price"      : 899.99,
+      "category"   : "Electrónica",
+      "stock"      : 15,
+      "image"      : "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=400"
+    },
+    {
+      "id"         : 2,
+      "name"       : "iPhone 15 Pro Max",
+      "description": "Smartphone Apple con chip A17 Pro Max y cámara de 48MP",
+      "price"      : 1199.99,
+      "category"   : "Electrónica",
+      "stock"      : 8,
+      "image"      : "https://images.unsplash.com/photo-1592750475338-74b7b21085ab?w=400"
+    },
+    {
+      "id"         : 3,
+      "name"       : "Auriculares Sony WH-1000XM5",
+      "description": "Auriculares inalámbricos con cancelación de ruido premium",
+      "price"      : 349.99,
+      "category"   : "Audio",
+      "stock"      : 25,
+      "image"      : "https://images.unsplash.com/photo-1618366712010-f4ae9c647dcb?w=400"
+    },
+    {
+      "id"         : 4,
+      "name"       : "Teclado Mecánico Keychron K8",
+      "description": "Teclado mecánico inalámbrico con switches Gateron",
+      "price"      : 89.99,
+      "category"   : "Accesorios",
+      "stock"      : 40,
+      "image"      : "https://images.unsplash.com/photo-1587829741301-dc798b83add3?w=400"
+    },
+    {
+      "id"         : 5,
+      "name"       : "Monitor LG UltraWide 34\"",
+      "description": "Monitor curvo 34 pulgadas, resolución 3440x1440, 144Hz",
+      "price"      : 599.99,
+      "category"   : "Electrónica",
+      "stock"      : 12,
+      "image"      : "https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?w=400"
+    },
+    {
+      "id"         : 6,
+      "name"       : "Mouse Logitech MX Master 3S",
+      "description": "Mouse ergonómico inalámbrico de alta precisión",
+      "price"      : 99.99,
+      "category"   : "Accesorios",
+      "stock"      : 30,
+      "image"      : "https://images.unsplash.com/photo-1527814050087-3793815479db?w=400"
+    },
+    {
+      "id"         : 7,
+      "name"       : "Tablet Samsung Galaxy Tab S9",
+      "description": "Tablet Android con pantalla AMOLED de 11 pulgadas",
+      "price"      : 749.99,
+      "category"   : "Electrónica",
+      "stock"      : 18,
+      "image"      : "https://images.unsplash.com/photo-1561154464-82e9adf32764?w=400"
+    },
+    {
+      "id"         : 8,
+      "name"       : "Smartwatch Apple Watch Series 9",
+      "description": "Reloj inteligente con sensor de salud avanzado",
+      "price"      : 429.99,
+      "category"   : "Wearables",
+      "stock"      : 22,
+      "image"      : "https://images.unsplash.com/photo-1579586337278-3befd40fd17a?w=400"
+    },
+    {
+      "id"         : 9,
+      "name"       : "Cámara Canon EOS R6",
+      "description": "Cámara mirrorless full-frame de 20MP",
+      "price"      : 2499.99,
+      "category"   : "Fotografía",
+      "stock"      : 5,
+      "image"      : "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?w=400"
+    },
+    {
+      "id"         : 10,
+      "name"       : "Consola PlayStation 5",
+      "description": "Consola de videojuegos de última generación",
+      "price"      : 499.99,
+      "category"   : "Gaming",
+      "stock"      : 10,
+      "image"      : "https://images.unsplash.com/photo-1606813907291-d86efa9b94db?w=400"
+    },
+    {
+      "id"         : 11,
+      "name"       : "Impresora HP LaserJet Pro",
+      "description": "Impresora láser monocromática de alta velocidad",
+      "price"      : 299.99,
+      "category"   : "Oficina",
+      "stock"      : 14,
+      "image"      : "https://images.unsplash.com/photo-1612815154858-60aa4c59eaa6?w=400"
+    },
+    {
+      "id"         : 12,
+      "name"       : "Disco Duro Externo Seagate 2TB",
+      "description": "Almacenamiento portátil USB 3.0",
+      "price"      : 79.99,
+      "category"   : "Almacenamiento",
+      "stock"      : 50,
+      "image"      : "https://images.unsplash.com/photo-1597872200969-2b65d56bd16b?w=400"
+    },
+    {
+      "id"         : 13,
+      "name"       : "Webcam Logitech Brio 4K",
+      "description": "Cámara web profesional con resolución 4K",
+      "price"      : 199.99,
+      "category"   : "Accesorios",
+      "stock"      : 28,
+      "image"      : "https://images.unsplash.com/photo-1586339949216-35c8b38edac7?w=400"
+    },
+    {
+      "id"         : 14,
+      "name"       : "Altavoz Bluetooth JBL Charge 5",
+      "description": "Altavoz portátil resistente al agua con 20h de batería",
+      "price"      : 179.99,
+      "category"   : "Audio",
+      "stock"      : 35,
+      "image"      : "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?w=400"
+    },
+    {
+      "id"         : 15,
+      "name"       : "Router WiFi 6 TP-Link Archer AX73",
+      "description": "Router de alta velocidad con tecnología WiFi 6",
+      "price"      : 149.99,
+      "category"   : "Redes",
+      "stock"      : 20,
+      "image"      : "https://images.unsplash.com/photo-1606904825846-647eb07f5be2?w=400"
+    },
+    {
+      "id"         : 16,
+      "name"       : "Silla Gamer DXRacer Formula",
+      "description": "Silla ergonómica para gaming con soporte lumbar",
+      "price"      : 399.99,
+      "category"   : "Muebles",
+      "stock"      : 8,
+      "image"      : "https://images.unsplash.com/photo-1598550476439-6847785fcea6?w=400"
+    },
+    {
+      "id"         : 17,
+      "name"       : "Micrófono Blue Yeti",
+      "description": "Micrófono USB profesional para streaming y podcasts",
+      "price"      : 129.99,
+      "category"   : "Audio",
+      "stock"      : 24,
+      "image"      : "https://images.unsplash.com/photo-1590602847861-f357a9332bbc?w=400"
+    },
+    {
+      "id"         : 18,
+      "name"       : "Tarjeta Gráfica NVIDIA RTX 4070",
+      "description": "GPU de alto rendimiento para gaming y creación",
+      "price"      : 649.99,
+      "category"   : "Componentes",
+      "stock"      : 6,
+      "image"      : "https://images.unsplash.com/photo-1591488320449-011701bb6704?w=400"
+    },
+    {
+      "id"         : 19,
+      "name"       : "SSD Samsung 980 PRO 1TB",
+      "description": "Unidad de estado sólido NVMe Gen 4",
+      "price"      : 149.99,
+      "category"   : "Almacenamiento",
+      "stock"      : 45,
+      "image"      : "https://images.unsplash.com/photo-1531492746076-161ca9bcad58?w=400"
+    },
+    {
+      "id"         : 20,
+      "name"       : "Drone DJI Mini 3 Pro",
+      "description": "Drone compacto con cámara 4K y 34 minutos de vuelo",
+      "price"      : 759.99,
+      "category"   : "Fotografía",
+      "stock"      : 11,
+      "image"      : "https://images.unsplash.com/photo-1473968512647-3e447244af8f?w=400"
+    }
+  ]
+}
