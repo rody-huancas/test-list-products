@@ -16,7 +16,7 @@ Listado de productos con funcionalidades de búsqueda y paginación. Desarrollad
 | Tecnología | Versión | Propósito |
 |-----------|---------|-----------|
 | React | 19.1.1 | Framework principal para la UI |
-| TypeScript | 5.9.3 | Tipado estático y mejor DX |
+| TypeScript | 5.9.3 | Tipado estático |
 | Vite | 7.1.7 | Build tool y dev server |
 | TailwindCSS | 4.1.14 | Framework de utilidades CSS |
 | React Icons | 5.5.0 | Biblioteca de iconos |
