@@ -1,4 +1,4 @@
-# Test List Products
+# Listado de Productos
 
 Listado de productos con funcionalidades de búsqueda y paginación. Desarrollada con React, TypeScript y TailwindCSS.
 
